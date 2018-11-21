@@ -8,7 +8,7 @@ If I invested I had invested 100$ and today's value is 110$, the reports would s
 Does it matter _when_ I invested the 100$? Of course, it should. if I had invested the amount exactly an year back, then the return would be 10%. What if I had invested the money 2 years back?
 
 The formula for IRR is:
-https://i.investopedia.com/u53826/npv_formula.png
+![Formula Image](https://i.investopedia.com/u53826/npv_formula.png)
 
 Calculating 'r' in the formula is through trial-and-error. In Excel, we could use the IRR() function with an initial guess.
 
