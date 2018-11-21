@@ -24,3 +24,12 @@ Suggested way to use:
 ```
 python Orders.py
 ```
+should result in an output like below:
+```
++----+-----------------------------------------------------------+-----------+--------------+-----------+-----------------+--------------+------------+
+|    | Scheme Name                                               | Status    |     Invested |       P/L |      Curr Value |          IRR |        Yrs |
+|----+-----------------------------------------------------------+-----------+--------------+-----------+-----------------+--------------+------------|
+|  0 | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX - DIVIDEND              | Active    | 164861       |  34182.5  | 199043          |   9.14275    |  2.03069   |
+|  1 | YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY - GROWTH             | Active    | 260000       | -44740.3  | 215260          | -20.0072     |  1.35505   |
+....
+```
