@@ -20,7 +20,8 @@ Suggested way to use:
 - Download the yearly orderbook xls files to a subfolder named  : 'OrderBooks'
 - Download the dividend history (maybe in multiple files over multiple periods) to a subfolder named : 'Dividends'
 - Download the latest portfolio/positions to the current folder (where the Orders.py is located)
-- Run the code as : 
+- Edit Orders.py - change the Portfolio XLS file name right at the beginning of the code
+- Run the code as follows : 
 ```
 python Orders.py
 ```
